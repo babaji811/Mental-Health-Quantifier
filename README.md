@@ -1,7 +1,6 @@
 Mental Health Quantifier
 
-The definition of mental disorders describes them as \health con-
-ditions involving changes in emotion, thinking or behavior or a combination
+The definition of mental disorders describes them as health conditions involving changes in emotion, thinking or behavior or a combination
 of these". Contemporary societies of 2020 still fall short in recognizing some
 of the most common afflictions as actual problems in people. Some of those
 are depression, anxiety and stress disorders.
